@@ -27,9 +27,8 @@ Respawn:		Click HUD Button	Start
 
 -----------------------------------------------------
 
-TO START:
-
-Load the "PrototypeMap.umap", ensure that the "Spawn player at Default Player Start" is selected, and hit Play.
+Prototype Map has all the features combined in its demo map.
+Full Map is the main map that is under development.
 
 -----------------------------------------------------
 
